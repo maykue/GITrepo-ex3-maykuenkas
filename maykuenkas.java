@@ -5,7 +5,7 @@ public class maykuenkas{
      { 
         for (int i=1;i<=10; i++) 
         {
-            System.out.println("may kuenkas"+i); 
+            System.out.println("my name is may"+i); 
         }
      }
 
